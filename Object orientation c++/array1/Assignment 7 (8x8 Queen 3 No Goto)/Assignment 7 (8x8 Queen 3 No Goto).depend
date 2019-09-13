@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1552186403 source:c:\object orientation c++\assignment 7 (8x8 queen 3 no goto)\main.cpp
-	<iostream>
-	<cmath>
-	<cstdlib>
-
