@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552432465 source:c:\object orientation c++\assignment 8 8 numbers in a cross\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+

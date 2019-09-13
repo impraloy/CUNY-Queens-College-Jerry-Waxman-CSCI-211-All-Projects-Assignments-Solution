@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553702444 source:c:\object orientation c++\assignment 3\saha_praloy_hw#3.cpp
+	<iostream>
+	<algorithm>
+	<map>
+	<set>
+	<cstring>
+

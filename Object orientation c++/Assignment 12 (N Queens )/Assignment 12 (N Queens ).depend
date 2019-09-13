@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555303410 source:c:\object orientation c++\assignment 12 (n queens )\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+

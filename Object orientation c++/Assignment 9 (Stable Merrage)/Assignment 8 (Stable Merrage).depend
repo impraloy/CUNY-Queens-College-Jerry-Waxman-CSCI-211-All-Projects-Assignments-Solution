@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552929327 source:c:\object orientation c++\assignment 8 (stable merrage)\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+
